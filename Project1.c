@@ -1,5 +1,3 @@
-//CPSC 479 - Resham Jhangiani and Phillip Ly
-//PROJECT 1
 //Processing value and passing in ring topology
 
 #include <mpi.h>
